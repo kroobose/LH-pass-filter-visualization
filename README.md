@@ -2,8 +2,6 @@
 
 FFT-based Low/High Pass filter visualization using Gradio.
 
-![screenshot](examples/screenshot.png)
-
 ## Features
 
 - Low/High Pass frequency filtering
